@@ -8,7 +8,7 @@ column_name,data_type,character_maximum_length,numeric_precision,numeric_scale
 1d26aaf9-398c-4c39-93e3-83f0de9e1230,character varying,,,
 1e1dd370-d2b2-400b-98ba-2d7961c2c938,character varying,,,
 22add297-5d71-4e73-818b-543057411b8e,double precision,,53,
-26b82ebc-c271-4560-9c83-3cc4209f0751,character varying,,,
+26b82ebc-c271-4560-0c83-3cc4209f0751,character varying,,,
 2d66c5aa-b474-4652-b174-9ffab96e37b5,character varying,,,
 32fa0529-abc0-49fe-a112-4bad9ebcf483,character varying,,,
 46d7cd72-258d-47c2-accd-050e579d3bbf,character varying,,,
